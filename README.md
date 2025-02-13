@@ -1,4 +1,4 @@
-# Análise de Evasão Acadêmica com Modelagem Bayesiana
+# Análise de Evasão Acadêmica com Usando Stan
 
 ## Sobre o Projeto
 Este projeto tem como objetivo analisar os fatores relacionados à evasão acadêmica em um curso universitário, utilizando técnicas estatísticas e modelagem bayesiana. O conjunto de dados utilizado (`curso-55N-2024.csv`) contém informações sobre estudantes, incluindo variáveis como ano de ingresso, sexo, etnia, tipo de cota, período cursado e forma de evasão (formatura, desistência, desligamento, etc.).
